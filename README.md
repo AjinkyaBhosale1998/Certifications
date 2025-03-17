@@ -4,6 +4,8 @@
 ![Javscript](https://github.com/AjinkyaBhosale1998/Certifications/assets/91610163/a1ab18f5-829f-4768-a533-45fae8492806)
 # Angular Complete Course by - Academind by Maximilian Schwarzmüller
 ![Angular](https://github.com/AjinkyaBhosale1998/Certifications/assets/91610163/2bd4be2d-8f2d-4140-ac1d-539034c28f94)
+# PostgreSQL 
+![PostgreSQL](https://github.com/user-attachments/assets/90037853-dfd8-4c04-b716-332e6e035370)
 
 # Microsoft Azure
 ![azure](https://github.com/AjinkyaBhosale1998/Certifications/assets/91610163/7c067484-8b32-495e-8887-a712c6377e8f)
